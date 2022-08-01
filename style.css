@@ -1,0 +1,96 @@
+#navbar{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    text-decoration: none;
+    padding-right: 55px;
+     font-size: 22px; 
+     position: relative;
+     right: -100px;
+}
+
+.matriva{
+    font-family: 'Mukta', sans-serif;
+    font-size: 23px; 
+    text-align: center; 
+    background-color: #ACBAA1;
+    position: relative;
+    top: 10px;
+}
+  .topnav{
+    position: relative;
+    margin-top: 50px;
+} 
+#facebook_icon{
+    height: 40px;
+    width: 40px;
+     position: relative;
+    right: -560px;
+    top: -7px;
+    opacity: 75%; 
+}
+#whatsapplogo{
+    height: 30px;
+    width: 30px;
+     position: relative;
+     right:-580px;
+     top: -8px;
+}
+#instagramlogo{
+    height: 55px;
+    width: 55px;
+     position: relative;
+     right:-600px;
+     top: -8px;
+}
+#pintresticon{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    right:-600px;
+    top: -8px;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+  }
+
+  .searchicon{
+      position: relative;
+      margin-left: 100px;
+      top: 9px;
+  }
+  .searchinput{
+     border: 1px solid white;
+    border-bottom: 1px solid  black; 
+  }
+.img_aboutUs{
+    float: left;
+    width: 10%;
+    position: relative;
+    bottom: -300px;
+    width: 700px;
+    height: 700px;
+    position: relative;
+    top: 100px;
+    left: 10px;
+    opacity: 90%;
+}
+.para_abtUs{
+    float: right;
+    width: 50%;
+    position: relative;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    bottom: -200px;
+    right: 10px;
+    /* border: 1px solid black; */
+    padding-left: 10px;
+}
+
+
+
+
